@@ -3,13 +3,12 @@
 
 int main()
 {
-    int no = 52;
+    int no = 50;
     no = no + MAX;
     no++;
 
     printf("%d\n",no);
-    printf("Rits\n");
-    printf("will you marry me\n");
+    
     
     return 0;
 }
